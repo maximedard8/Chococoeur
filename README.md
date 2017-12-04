@@ -58,7 +58,7 @@ Your browser does not support the audio element.
 </audio>
 		<br>
       <img src="logo2.jpg" style="padding-top:60px;" alt="PHOTO1"> 
-      https://github.com/maximedard8/Chococoeur/blob/master/logo.png?raw=true
+      
       <br><br>
 	 <br>
       <div class="paragraphe">
